@@ -1,6 +1,6 @@
 # 👋 Hi there, I'm Ilson!
 
-![GitHub followers](https://img.shields.io/github/followers/inobrega?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/ilsondev?style=social)
+![GitHub followers](https://img.shields.io/github/followers/ilsondev?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/ilsondev_?style=social)
 
 ## About Me
 Hey! I'm a senior developer with a love for NodeJS, PHP, Python, and C++. Lately, I've been diving deep into AI, GenAI, Machine Learning, and multimodal applications.
