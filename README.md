@@ -9,6 +9,14 @@ Hey! I'm a senior developer with a love for NodeJS, PHP, Python, and C++. Lately
 
 📧 Want to reach out? Email me at [hello@ilson.dev](mailto:hello@ilson.dev)
 
+## ⚡ Skills
+- NodeJS
+- PHP
+- Python
+- C++
+- AWS
+- AI & Machine Learning
+
 ## 🚀 Featured Projects
 
 ### [Laravel AI Chatbot](https://github.com/inobrega/laravel-ai-chatbot)
@@ -29,14 +37,6 @@ A Tibia client using Unreal Engine to bring Mehah/OTClient into the Unreal envir
 - Multimodal Applications
 - Langchain
 - Task Automation with GenAI
-
-## ⚡ Skills
-- NodeJS
-- PHP
-- Python
-- C++
-- AWS
-- AI & Machine Learning
 
 Let's connect and create something amazing together!
 
