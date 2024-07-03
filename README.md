@@ -1,16 +1,45 @@
-## Hi there 👋
+# 👋 Hi there, I'm Ilson!
 
-<!--
-**inobrega/inobrega** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![GitHub followers](https://img.shields.io/github/followers/inobrega?style=social) ![Twitter Follow](https://img.shields.io/twitter/follow/ilsondev?style=social)
 
-Here are some ideas to get you started:
+## About Me
+Hey! I'm a senior developer with a love for NodeJS, PHP, Python, and C++. Lately, I've been diving deep into AI, GenAI, Machine Learning, and multimodal applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🌐 Feel free to check out my [LinkedIn](https://www.linkedin.com/in/ilsondev/) and [personal website](https://ilson.dev) to learn more about me.
+
+📧 Want to reach out? Email me at [hello@ilson.dev](mailto:hello@ilson.dev)
+
+## 🚀 Featured Projects
+
+### [Laravel AI Chatbot](https://github.com/inobrega/laravel-ai-chatbot)
+An advanced chatbot manager, an alternative to Amazon Lex, fully visual and easy to configure. It directly integrates with GPT Turbo for smarter and deeper conversations.
+
+### [PyCanary](https://github.com/inobrega/pycanary)
+A Tibia server made in Python, using Cython for performance boosts. It focuses on readable, maintainable code with integration for AI, Machine Learning, and Advanced Metrics.
+
+### [OTClient Unreal Engine](https://github.com/inobrega/otclient-unreal-engine)
+A Tibia client using Unreal Engine to bring Mehah/OTClient into the Unreal environment, offering better, more advanced graphics.
+
+## 💼 Founder of Cognicore
+[Cognicore](https://cognicore.app) integrates artificial intelligence into the analysis and diagnosis of patients with all degrees of neurodivergence and their comorbidities.
+
+## 🎓 Focused On
+- AI and GenAI
+- Machine Learning
+- Multimodal Applications
+- Langchain
+- Task Automation with GenAI
+
+## ⚡ Skills
+- NodeJS
+- PHP
+- Python
+- C++
+- AWS
+- AI & Machine Learning
+
+Let's connect and create something amazing together!
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=inobrega&show_icons=true&theme=radical)
